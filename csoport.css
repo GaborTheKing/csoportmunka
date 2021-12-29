@@ -2,10 +2,37 @@ h1 {
     text-align: center;
 }
 
-h2 {
+p {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    margin-left: -250px;
+    margin-top: 200px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40pt;
     text-align: center;
 }
 
 body {
     background: linear-gradient(-90deg, white, grey);
+}
+
+.container {
+    background-color: white;
+    margin-top: 20px;
+}
+
+h4 {
+    float: 20px;
+}
+
+#merci {
+    position: absolute;
+    top: -15%;
+    left: 50%;
+    margin-left: -250px;
+    margin-top: 200px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40pt;
+    text-align: center;
 }
